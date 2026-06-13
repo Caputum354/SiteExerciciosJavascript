@@ -49,7 +49,6 @@ Além disso, o projeto possui visual estilizado, navegação entre páginas e al
 - **LocalStorage**
 - Estrutura web estática
 
----
 
 ## 📂 Estrutura do projeto
 
@@ -69,7 +68,9 @@ AtividadesLogicaJavascript/
 └── img/
     ├── background.png
     └── FotoProaEdit.png
-🚀 Como executar o projeto
+```
+
+## 🚀 Como executar o projeto
 
 Como este é um projeto front-end estático, não precisa instalar dependências.
 
@@ -80,7 +81,7 @@ Opção 2: Usar extensão de servidor local
 
 Se preferir, você pode usar uma extensão como Live Server no VS Code para rodar o projeto localmente.
 
-🧠 Categorias de exercícios
+## 🧠 Categorias de exercícios
 
 Os exercícios estão organizados em blocos como:
 
@@ -97,7 +98,8 @@ Módulo 5 — While
 Módulo 6 — For
 Módulo 7 — Listas
 Módulo 8 — Manipulação de Arquivos
-🎨 Tema visual
+
+## 🎨 Tema visual
 
 O projeto conta com um visual moderno com inspiração retrô, incluindo:
 
@@ -107,17 +109,23 @@ layout responsivo
 botões estilizados
 navegação fixa no topo
 alternância entre tema claro e escuro
-👨‍💻 Autor
 
-Ítalo Moreno
+## 📸 Preview
 
-LinkedIn: https://www.linkedin.com/in/italo-moreno/
-GitHub: https://github.com/Caputum354
-📄 Licença
+![Preview do Projeto](./img/preview.png)
+
+## 👨‍💻 Autor
+
+**Ítalo Moreno**
+
+- 🔗 **LinkedIn:** [linkedin.com/in/italo-moreno](https://www.linkedin.com/in/italo-moreno/)
+- 💻 **GitHub:** [github.com/Caputum354](https://github.com/Caputum354)
+- 
+## 📄 Licença
 
 Este projeto está disponível para fins educacionais e portfólio.
 Caso deseje, você pode adicionar uma licença específica no repositório.
 
-⭐ Agradecimentos
+## ⭐ Agradecimentos
 
 Projeto desenvolvido durante a formação no PROA, com foco em aprendizado prático e evolução na área de tecnologia.
